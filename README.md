@@ -21,7 +21,7 @@ All activities:
 *
 * Progres DEMO: Software Develpment
 * [Software Develpment_Progres DEMO ...........GIT](https://github.com/Alenm1/Aplicacion-KEYS.git)
-* [Application Video](https://www.youtube.com/watch?v=MjdO44smMYs)
+* [Video YT](https://www.youtube.com/watch?v=MjdO44smMYs)
 
 
   
