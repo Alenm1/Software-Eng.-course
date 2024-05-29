@@ -20,8 +20,8 @@ All activities:
 * [6. Mi_primer_Sprint_TiendaKEYS](https://github.com/Alenm1/Software-Eng.-course/blob/main/6.%20Mi_primer_Sprint_TiendaKEYS.pdf)
 *
 * Progres DEMO: Software Develpment
-* [Software Develpment_Progres DEMO]()
-* [Application Video]()
+* [Software Develpment_Progres DEMO ...........GIT](https://github.com/Alenm1/Aplicacion-KEYS.git)
+* [Application Video](https://www.youtube.com/watch?v=MjdO44smMYs)
 
 
   
