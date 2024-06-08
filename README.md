@@ -6,16 +6,13 @@ All activities:
 
 1. [IEEE_830_TIENDA_KEYS_Mejorado](https://github.com/Alenm1/Software-Eng.-course/blob/main/1%20IEEE_830_TIENDA_KEYS_Mejorado.pdf)
 2. [Zen_Python](https://github.com/Alenm1/Software-Eng.-course/blob/main/1.%20Zen_Python.pdf)
-3. 
+  
+3. [The_Software_Crisis_grupo](https://github.com/Alenm1/Software-Eng.-course/blob/main/2.%20The_Software_Crisis_grupo.pdf)
+
+4. [3. MoSCOW GRUPO](https://github.com/Alenm1/Software-Eng.-course/blob/main/3.%20MoSCOW.pdf)
+5. [3. MoSCOW_tienda_KEYS](https://github.com/Alenm1/Software-Eng.-course/blob/main/3.%20MoSCOW_tienda_KEYS.pdf)
 
 
-* [1 IEEE_830_TIENDA_KEYS_Mejorado](https://github.com/Alenm1/Software-Eng.-course/blob/main/1%20IEEE_830_TIENDA_KEYS_Mejorado.pdf)
-* [1. Zen_Python](https://github.com/Alenm1/Software-Eng.-course/blob/main/1.%20Zen_Python.pdf)
-* 
-* [2. The_Software_Crisis_grupo](https://github.com/Alenm1/Software-Eng.-course/blob/main/2.%20The_Software_Crisis_grupo.pdf)
-*   
-* [3. MoSCOW GRUPO](https://github.com/Alenm1/Software-Eng.-course/blob/main/3.%20MoSCOW.pdf)
-* [3. MoSCOW_tienda_KEYS](https://github.com/Alenm1/Software-Eng.-course/blob/main/3.%20MoSCOW_tienda_KEYS.pdf)
 *   
 * [4. Características_Técnicas_Tienda_KEYS_corregido](https://github.com/Alenm1/Software-Eng.-course/blob/main/4.%20Caracter%C3%ADsticas_T%C3%A9cnicas_Tienda_KEYS_corregido.pdf)
 * 
