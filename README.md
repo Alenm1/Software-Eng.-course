@@ -1,7 +1,7 @@
 # Software Engineering Course Activities and Assignments
 
 ## First Unit
-All activities:
+### All activities:
 
 1. [IEEE 830 TIENDA KEYS Mejorado](https://github.com/Alenm1/Software-Eng.-course/blob/main/1%20IEEE_830_TIENDA_KEYS_Mejorado.pdf)
 2. [Zen Python](https://github.com/Alenm1/Software-Eng.-course/blob/main/1.%20Zen_Python.pdf)
