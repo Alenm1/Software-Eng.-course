@@ -19,3 +19,8 @@
 - 🎥[Video YT](https://www.youtube.com/watch?v=MjdO44smMYs)
 
 ## Second Unit 📚
+### All activities:
+1. a
+2. 
+
+### Software Development
