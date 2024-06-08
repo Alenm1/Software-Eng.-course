@@ -14,8 +14,8 @@
 9. [Mi Primer Sprint Tienda KEYS](https://github.com/Alenm1/Software-Eng.-course/blob/main/6.%20Mi_primer_Sprint_TiendaKEYS.pdf)
 
 ### Progress DEMO: Software Development
-- [Software Development Progress PRIMER DEMO](https://github.com/Alenm1/Software-Eng.-course/blob/main/7.%20Software_Develpment_Progres_DEMO%20inicio.pdf)
-- [Software Development Progress DEMO GIT](https://github.com/Alenm1/Aplicacion-KEYS.git)
+- [Software Development Progress (PDF)](https://github.com/Alenm1/Software-Eng.-course/blob/main/7.%20Software_Develpment_Progres_DEMO%20inicio.pdf)
+- [Software Development Progress PRIMER DEMO REPOSITORIO](https://github.com/Alenm1/Aplicacion-KEYS.git)
 - [Video YT](https://www.youtube.com/watch?v=MjdO44smMYs)
 
 ## Second Unit
