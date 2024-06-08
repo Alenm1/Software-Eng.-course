@@ -9,22 +9,21 @@ All activities:
   
 3. [The_Software_Crisis_grupo](https://github.com/Alenm1/Software-Eng.-course/blob/main/2.%20The_Software_Crisis_grupo.pdf)
 
-4. [3. MoSCOW GRUPO](https://github.com/Alenm1/Software-Eng.-course/blob/main/3.%20MoSCOW.pdf)
-5. [3. MoSCOW_tienda_KEYS](https://github.com/Alenm1/Software-Eng.-course/blob/main/3.%20MoSCOW_tienda_KEYS.pdf)
+4. [MoSCOW GRUPO](https://github.com/Alenm1/Software-Eng.-course/blob/main/3.%20MoSCOW.pdf)
+5. [MoSCOW_tienda_KEYS](https://github.com/Alenm1/Software-Eng.-course/blob/main/3.%20MoSCOW_tienda_KEYS.pdf)
+
+6. [Características_Técnicas_Tienda_KEYS_corregido](https://github.com/Alenm1/Software-Eng.-course/blob/main/4.%20Caracter%C3%ADsticas_T%C3%A9cnicas_Tienda_KEYS_corregido.pdf)
+
+7. [Practica de Clase SCRUM __ Denilzon - Aldair](https://github.com/Alenm1/Software-Eng.-course/blob/main/5%20Practica%20de%20Clase%20SCRUM%20__%20Denilzon%20-%20Aldair.pdf)
+8. [SCRUM_jira backog completo _Tienda_Keys](https://github.com/Alenm1/Software-Eng.-course/blob/main/5.%20SCRUM_jira%20backog%20completo%20_Tienda_Keys.pdf)
+
+9. [Mi_primer_Sprint_TiendaKEYS](https://github.com/Alenm1/Software-Eng.-course/blob/main/6.%20Mi_primer_Sprint_TiendaKEYS.pdf)
 
 
-*   
-* [4. Características_Técnicas_Tienda_KEYS_corregido](https://github.com/Alenm1/Software-Eng.-course/blob/main/4.%20Caracter%C3%ADsticas_T%C3%A9cnicas_Tienda_KEYS_corregido.pdf)
-* 
-* [5 Practica de Clase SCRUM __ Denilzon - Aldair](https://github.com/Alenm1/Software-Eng.-course/blob/main/5%20Practica%20de%20Clase%20SCRUM%20__%20Denilzon%20-%20Aldair.pdf)
-* [5. SCRUM_jira backog completo _Tienda_Keys](https://github.com/Alenm1/Software-Eng.-course/blob/main/5.%20SCRUM_jira%20backog%20completo%20_Tienda_Keys.pdf)
-*   
-* [6. Mi_primer_Sprint_TiendaKEYS](https://github.com/Alenm1/Software-Eng.-course/blob/main/6.%20Mi_primer_Sprint_TiendaKEYS.pdf)
-*
-* Progres DEMO: Software Develpment
-* [7. Software_Develpment_Progres_PRIMER DEMO](https://github.com/Alenm1/Software-Eng.-course/blob/main/7.%20Software_Develpment_Progres_DEMO%20inicio.pdf)
-* [Software Develpment_Progres DEMO ...........GIT](https://github.com/Alenm1/Aplicacion-KEYS.git)
-* [Video YT](https://www.youtube.com/watch?v=MjdO44smMYs)
+Progres DEMO: Software Develpment
+    [7. Software_Develpment_Progres_PRIMER DEMO](https://github.com/Alenm1/Software-Eng.-course/blob/main/7.%20Software_Develpment_Progres_DEMO%20inicio.pdf)
+    [Software Develpment_Progres DEMO ...........GIT](https://github.com/Alenm1/Aplicacion-KEYS.git)
+    [Video YT](https://www.youtube.com/watch?v=MjdO44smMYs)
 
 
   
