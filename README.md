@@ -20,7 +20,6 @@
 
 ## Second Unit 📚
 ### All activities:
-1. a
-2. 
+11. a
 
 ### Software Development
