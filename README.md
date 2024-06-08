@@ -1,6 +1,6 @@
 # Software Engineering Course Activities and Assignments
 
-## First Unit 📚
+## First Unit 
 ### All activities:
 
 1. [IEEE 830 TIENDA KEYS Mejorado](https://github.com/Alenm1/Software-Eng.-course/blob/main/01.%20IEEE_830_Tienda_KEYS_Mejorado.pdf)
@@ -14,11 +14,11 @@
 9. [Mi Primer Sprint Tienda KEYS](https://github.com/Alenm1/Software-Eng.-course/blob/main/09.%20Mi_primer_Sprint_TiendaKEYS.pdf)
 
 ### Progress DEMO: Software Development
-- 📑[Software Development Progress (PDF)](https://github.com/Alenm1/Software-Eng.-course/blob/main/10.%20Software_Develpment_Progres_DEMO%20INCIO.pdf)
+- [Software Development Progress (PDF)](https://github.com/Alenm1/Software-Eng.-course/blob/main/10.%20Software_Develpment_Progres_DEMO%20INCIO.pdf)
 - 🔗[Software Development Progress PRIMER DEMO GIT](https://github.com/Alenm1/Aplicacion-KEYS.git)
 - 🎥[Video YT](https://www.youtube.com/watch?v=MjdO44smMYs)
 
-## Second Unit 📚
+## Second Unit 
 ### All activities:
 11. a
 
