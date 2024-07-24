@@ -32,8 +32,7 @@
 
 ### Software Development
 - [Investigacion_Cientifica_Unlockopia_3ra entrega final (PDF)](https://github.com/Alenm1/Software-Eng.-course/blob/main/18.%20Operational_Analysis_of_a_Video_Game_Management_and_Sales_Platform.pdf)
-- 🔗[En SSRn]([https://github.com/Alenm1/Aplicacion-KEYS.git](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903874))
-- [Software Development Progress PRIMER DEMO GIT](https://github.com/Alenm1/Unlockopia-App.git)
+- 🔗[Enlace para el trabajo subido en SSRN]([https://github.com/Alenm1/Aplicacion-KEYS.git](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903874))
 
 ### Repositorio
 - [Software Development Progress PRIMER DEMO GIT](https://github.com/Alenm1/Unlockopia-App.git)
