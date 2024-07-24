@@ -36,7 +36,7 @@
 - 🔗[Subido en SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903874)
 
 ### Repositorio
-- [Software Development Progress PRIMER DEMO GIT](https://github.com/Alenm1/Unlockopia-App.git)
+- [Software Development Progress DEMO GIT](https://github.com/Alenm1/Unlockopia-App.git)
 
 ### Demostración en Video
 - 🎥[Ver en YouTube](https://www.youtube.com/watch?v=MjdO44smMYs)
