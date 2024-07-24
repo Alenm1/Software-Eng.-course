@@ -32,6 +32,7 @@
 
 ### Investigacion Cientifica
 - [Investigacion_Cientifica_Unlockopia_3ra entrega final (PDF)](https://github.com/Alenm1/Software-Eng.-course/blob/main/18.%20Operational_Analysis_of_a_Video_Game_Management_and_Sales_Platform.pdf)
+- 🔗[Subido en Preprints.org](https://www.preprints.org/manuscript/202407.1925/v1)
 - 🔗[Subido en SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903874)
 
 ### Repositorio
